@@ -1,4 +1,5 @@
 # Amazon_data_analysis
+https://www.orissapost.com/wp-content/uploads/2021/01/Amazon-1.jpg
 Analyzing ecommerce sellers in the Garden category in the Amazon marketplace.
 # INSIGHTS
 1.Most of the sellers belonged to US and about 30 sellers belonged to germany<br>
