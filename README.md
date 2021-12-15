@@ -1,7 +1,7 @@
 # Amazon_data_analysis
 ![image](https://user-images.githubusercontent.com/63378154/135637861-eadbde61-bf0d-41d6-81fd-ef5848d80378.png)
 
-Analyzing ecommerce sellers in the Garden category in the Amazon marketplace.
+Analyzing ecommerce sellers in the Garden category in the Amazon marketplace.<br>
 **INSIGHTS**<br>
 1.Most of the sellers belonged to US and about 30 sellers belonged to germany<br>
 2.The average sellerproductcount is 6636<br>
